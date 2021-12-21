@@ -1,0 +1,9 @@
+*.o
+./class_1/window
+./window/run.sh
+./window/main
+./log/log
+./pingpong/game
+./pingpong/run.sh
+./fall/game
+./fall/run.sh
